@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Sidra Sial
+      Sidra Sial Ultra Pro Max
     </div>
   );
 }
